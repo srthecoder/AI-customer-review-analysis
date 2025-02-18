@@ -11,7 +11,6 @@ This project leverages **AI-powered sentiment analysis, Explainable AI, and A/B 
 - **Data Sources**: Amazon, Yelp, Trustpilot (Web Scraping & APIs)
 
 ## 📂 Project Structure
-    ```bash
     ai-customer-review-analysis/
     │── data/                # Sample datasets
     │── notebooks/           # Jupyter notebooks
