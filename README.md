@@ -35,7 +35,7 @@ ai-customer-review-analysis/
     ```bash
     streamlit run dashboard/app.py
 
-4.	Check out the Tableau dashboard [here](https://public.tableau.com/app/profile/your-tableau-dashboard-link).
+## 📊 Check out the Tableau dashboard [here](https://public.tableau.com/app/profile/your-tableau-dashboard-link).
 
 📈 Results & Insights
 	•	Sentiment analysis accuracy: 85% using DistilBERT
@@ -47,7 +47,7 @@ ai-customer-review-analysis/
 	•	Deploy on AWS/GCP
 	•	Integrate a chatbot for real-time analysis
 
-📢 Connect with Me: [LinkedIn](https://www.linkedin.com/in/swachandrika-rudra)
-🔗 Project Demo: Tableau Dashboard
+### 📢 Connect with Me: [LinkedIn](https://www.linkedin.com/in/swachandrika-rudra)
+### 🔗 Project Demo: Tableau Dashboard
 
 ---
