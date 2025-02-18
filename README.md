@@ -11,15 +11,16 @@ This project leverages **AI-powered sentiment analysis, Explainable AI, and A/B 
 - **Data Sources**: Amazon, Yelp, Trustpilot (Web Scraping & APIs)
 
 ## 📂 Project Structure
-ai-customer-review-analysis/
-│── data/                # Sample datasets
-│── notebooks/           # Jupyter notebooks
-│── src/                 # Python scripts
-│── dashboard/           # Tableau/Streamlit dashboards
-│── reports/             # Findings & results
-│── README.md            # Documentation
-│── requirements.txt     # Dependencies
-│── .gitignore           # Ignore unnecessary files
+    ```bash
+    ai-customer-review-analysis/
+    │── data/                # Sample datasets
+    │── notebooks/           # Jupyter notebooks
+    │── src/                 # Python scripts
+    │── dashboard/           # Tableau/Streamlit dashboards
+    │── reports/             # Findings & results
+    │── README.md            # Documentation
+    │── requirements.txt     # Dependencies
+    │── .gitignore           # Ignore unnecessary files
 
 ## 🚀 How to Run
 1. Clone the repository:
